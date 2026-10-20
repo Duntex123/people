@@ -1,1 +1,1 @@
-# people
+study.html
